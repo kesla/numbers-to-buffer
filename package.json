@@ -1,6 +1,6 @@
 {
   "name": "numbers-to-buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert numbers to a buffer",
   "main": "numbers-to-buffer.js",
   "scripts": {
