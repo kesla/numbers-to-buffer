@@ -1,4 +1,4 @@
-# numbers-to-buffer
+# numbers-to-buffer[![build status](https://secure.travis-ci.org/kesla/numbers-to-buffer.png)](http://travis-ci.org/kesla/numbers-to-buffer)
 
 Convert numbers to a buffer
 
