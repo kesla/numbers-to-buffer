@@ -10,5 +10,14 @@
   "license": "MIT",
   "devDependencies": {
     "tap": "^0.4.11"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kesla/numbers-to-buffer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kesla/numbers-to-buffer/issues"
+  },
+  "homepage": "https://github.com/kesla/numbers-to-buffer"
 }
